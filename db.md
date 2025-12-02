@@ -15,4 +15,10 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 - TRASMISSION_TYPE
 - EURO
 
-*Columns Selling Details*
+*Columns Arrival Details*
+
+- ARRIVAL
+- STATUS
+- PURCHASE_PRICE 
+- DAMAGE_DESCRIPTION 
+
