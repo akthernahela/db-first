@@ -17,14 +17,14 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 
 *Columns Arrival Details*
 
-- ARRIVAL
-- STATUS
-- PURCHASE_PRICE 
-- DAMAGE_DESCRIPTION 
+- ARRIVAL = *DATE*
+- STATUS = *VARCHAR(50)*
+- PURCHASE_PRICE = *DECIMAL(10,2)*
+- DAMAGE_DESCRIPTION = *TEXT*
 
 *Columns Selling Details*
 
-- SELLING PRICE 
-- WORK_DESCRIPTION
-- SERVICE 
+- SELLING PRICE = *DECIMAL(10,2)*
+- WORK_DESCRIPTION = *TEXT*
+- SERVICE = *DATE*
 
