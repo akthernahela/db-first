@@ -22,3 +22,9 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 - PURCHASE_PRICE 
 - DAMAGE_DESCRIPTION 
 
+*Columns Selling Details*
+
+- SELLING PRICE 
+- WORK_DESCRIPTION
+- SERVICE 
+
