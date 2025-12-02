@@ -14,3 +14,5 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 - FUEL_TYPE
 - TRASMISSION_TYPE
 - EURO
+
+*Columns Selling Details*
