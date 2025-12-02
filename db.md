@@ -8,12 +8,12 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 
 - ID = *INT*
 - BRAND = *VARCHAR(50)*
-- MODEL =
-- REGISTRATION_YEAR =
-- MILEAGE(KM) =
-- FUEL_TYPE =
-- TRASMISSION_TYPE =
-- EURO =
+- MODEL = *VARCHAR(100)*
+- REGISTRATION_YEAR = *YEAR*
+- MILEAGE(KM) = *INT*
+- FUEL_TYPE = *VARCHAR(20)*
+- TRASMISSION_TYPE = *VARCHAR(20)*
+- EURO = *VARCHAR(10)*
 
 *Columns Arrival Details*
 
