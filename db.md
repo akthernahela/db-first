@@ -6,4 +6,6 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 
 *Columns*
 
-- 
+- ID 
+- BRAND 
+- MODEL 
