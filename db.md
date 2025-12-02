@@ -6,14 +6,14 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 
 *Columns Model Details*
 
-- ID 
-- BRAND 
-- MODEL 
-- REGISTRATION_YEAR 
-- MILEAGE(KM)
-- FUEL_TYPE
-- TRASMISSION_TYPE
-- EURO
+- ID = *INT*
+- BRAND = *VARCHAR(50)*
+- MODEL =
+- REGISTRATION_YEAR =
+- MILEAGE(KM) =
+- FUEL_TYPE =
+- TRASMISSION_TYPE =
+- EURO =
 
 *Columns Arrival Details*
 
