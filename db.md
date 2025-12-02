@@ -4,8 +4,13 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 
 ## Table name: CARS ( Entity name: CAR)
 
-*Columns*
+*Columns Model Details*
 
 - ID 
 - BRAND 
 - MODEL 
+- REGISTRATION_YEAR 
+- MILEAGE(KM)
+- FUEL_TYPE
+- TRASMISSION_TYPE
+- EURO
